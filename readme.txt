@@ -1,3 +1,4 @@
-lzk
+我的github账号：
 1005826614@qq.com
-linzhongkai
+
+这是一个web应用，基于Django
